@@ -1,0 +1,14 @@
+{
+  "TIFO_COUNT": 5000,
+  "GAME_MINUTE_MS": 1000,
+  "MATCH_MINUTES": 45,
+  "VAR_CLOSE_PROB_MIN": 0.4,
+  "VAR_CLOSE_PROB_MAX": 0.6,
+  "CLUBS": [
+    {"id":"alhilal","name":"Al Hilal","colors":["#0b4ea2","#ffffff"],"logo":"https://upload.wikimedia.org/wikipedia/en/6/6f/Al_Hilal_SFC_logo.svg"},
+    {"id":"alnassr","name":"Al Nassr","colors":["#ffd400","#0033a0"],"logo":"https://upload.wikimedia.org/wikipedia/en/9/9b/Al_Nassr_FC_logo.svg"},
+    {"id":"alqadisiyah","name":"Al Qadisiyah","colors":["#ffd400","#d21f26"],"logo":"https://upload.wikimedia.org/wikipedia/en/0/0b/Al-Qadsiah_FC_logo.svg"},
+    {"id":"alittihad","name":"Al Ittihad","colors":["#ffd400","#000000"],"logo":"https://upload.wikimedia.org/wikipedia/en/8/8b/Al-Ittihad_Club_logo.svg"},
+    {"id":"alahli","name":"Al Ahli Saudi","colors":["#ffffff","#007a3d"],"logo":"https://upload.wikimedia.org/wikipedia/en/4/4b/Al-Ahli_Club_logo.svg"}
+  ]
+}
